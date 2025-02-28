@@ -1,9 +1,5 @@
 # Olá, eu sou Fernando 👋
 
-<div align="center">
-  <img src="https://github.com/FernandoPestillo/FernandoPestillo/blob/main/git-network.svg" alt="Git Network Animation" width="800">
-</div>
-
 ## Sobre Mim
 
 🚀 Desenvolvedor apaixonado por código limpo e boas práticas </br>
@@ -17,6 +13,7 @@
 </div>
 
 ## 🛠️ Tecnologias & Ferramentas
+
 <div style="display: inline_block"><br>
     <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 

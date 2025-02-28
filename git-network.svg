@@ -157,11 +157,7 @@
   </style>
   
   <!-- Background -->
-  <rect class="bg" width="800" height="400" rx="15" ry="15" />
   
-  <!-- Title -->
-  <text class="title" x="400" y="50">Git Flow Workflow</text>
-  <text class="subtitle" x="400" y="80">Uma estratégia de branching para desenvolvimento colaborativo</text>
   
   <!-- Main Branch -->
   <path class="path main-path" d="M100,200 L700,200" />
@@ -219,12 +215,12 @@
   <text class="label label-hotfix" x="440" y="280">hotfix/security</text>
   
   <!-- Version Tags -->
-  <rect x="195" y="185" width="50" height="20" rx="10" ry="10" fill="#3B82F6" opacity="0.2" />
-  <text class="label label-main" x="220" y="200">v0.1</text>
+  <rect x="180" y="215" width="50" height="20" rx="10" ry="10" fill="#3B82F6" opacity="0.2" />
+  <text class="label label-main" x="190" y="230">v0.1</text>
   
-  <rect x="655" y="185" width="50" height="20" rx="10" ry="10" fill="#3B82F6" opacity="0.2" />
-  <text class="label label-main" x="680" y="200">v1.0</text>
-  
-  <rect x="535" y="185" width="50" height="20" rx="10" ry="10" fill="#3B82F6" opacity="0.2" />
-  <text class="label label-main" x="560" y="200">v0.2</text>
+  <rect x="515" y="165" width="50" height="20" rx="10" ry="10" fill="#3B82F6" opacity="0.2" />
+  <text class="label label-main" x="525" y="180">v0.2</text>
+
+  <rect x="672" y="215" width="50" height="20" rx="10" ry="10" fill="#3B82F6" opacity="0.2" />
+  <text class="label label-main" x="680" y="230">v1.0</text>
 </svg>
