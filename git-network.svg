@@ -1,0 +1,230 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes flowPath {
+      0% { stroke-dashoffset: 1000; }
+      100% { stroke-dashoffset: 0; }
+    }
+    
+    @keyframes appear {
+      0% { opacity: 0; transform: scale(0); }
+      70% { transform: scale(1.2); }
+      100% { opacity: 1; transform: scale(1); }
+    }
+    
+    @keyframes glow {
+      0% { filter: drop-shadow(0 0 2px rgba(59, 130, 246, 0.5)); }
+      50% { filter: drop-shadow(0 0 8px rgba(59, 130, 246, 0.8)); }
+      100% { filter: drop-shadow(0 0 2px rgba(59, 130, 246, 0.5)); }
+    }
+    
+    .bg {
+      fill: #111827;
+    }
+    
+    .path {
+      fill: none;
+      stroke-width: 3;
+      stroke-linecap: round;
+      stroke-linejoin: round;
+      stroke-dasharray: 1000;
+      stroke-dashoffset: 1000;
+      animation: flowPath 3s ease-in-out forwards;
+    }
+    
+    .main-path {
+      stroke: #3B82F6;
+    }
+    
+    .develop-path {
+      stroke: #10B981;
+      animation-delay: 0.5s;
+    }
+    
+    .feature-path {
+      stroke: #8B5CF6;
+      animation-delay: 1s;
+    }
+    
+    .release-path {
+      stroke: #F59E0B;
+      animation-delay: 1.5s;
+    }
+    
+    .hotfix-path {
+      stroke: #EF4444;
+      animation-delay: 2s;
+    }
+    
+    .commit {
+      opacity: 0;
+      animation: appear 0.5s ease-out forwards, glow 3s infinite;
+    }
+    
+    .commit-main {
+      fill: #3B82F6;
+      animation-delay: 0.2s;
+    }
+    
+    .commit-develop {
+      fill: #10B981;
+      animation-delay: 0.7s;
+    }
+    
+    .commit-feature {
+      fill: #8B5CF6;
+      animation-delay: 1.2s;
+    }
+    
+    .commit-release {
+      fill: #F59E0B;
+      animation-delay: 1.7s;
+    }
+    
+    .commit-hotfix {
+      fill: #EF4444;
+      animation-delay: 2.2s;
+    }
+    
+    .merge {
+      fill: #ffffff;
+      stroke-width: 2;
+      opacity: 0;
+      animation: appear 0.5s ease-out forwards;
+    }
+    
+    .merge-main {
+      stroke: #3B82F6;
+      animation-delay: 2.5s;
+    }
+    
+    .merge-develop {
+      stroke: #10B981;
+      animation-delay: 2.7s;
+    }
+    
+    .label {
+      font-family: 'Menlo', 'Monaco', 'Courier New', monospace;
+      font-size: 14px;
+      font-weight: bold;
+      opacity: 0;
+      animation: appear 0.5s ease-out forwards;
+    }
+    
+    .label-main {
+      fill: #3B82F6;
+      animation-delay: 0.3s;
+    }
+    
+    .label-develop {
+      fill: #10B981;
+      animation-delay: 0.8s;
+    }
+    
+    .label-feature {
+      fill: #8B5CF6;
+      animation-delay: 1.3s;
+    }
+    
+    .label-release {
+      fill: #F59E0B;
+      animation-delay: 1.8s;
+    }
+    
+    .label-hotfix {
+      fill: #EF4444;
+      animation-delay: 2.3s;
+    }
+    
+    .title {
+      font-family: 'Arial', sans-serif;
+      font-size: 24px;
+      font-weight: bold;
+      fill: #F3F4F6;
+      text-anchor: middle;
+      opacity: 0;
+      animation: appear 1s ease-out forwards;
+    }
+    
+    .subtitle {
+      font-family: 'Arial', sans-serif;
+      font-size: 16px;
+      fill: #9CA3AF;
+      text-anchor: middle;
+      opacity: 0;
+      animation: appear 1s ease-out forwards;
+      animation-delay: 0.5s;
+    }
+  </style>
+  
+  <!-- Background -->
+  <rect class="bg" width="800" height="400" rx="15" ry="15" />
+  
+  <!-- Title -->
+  <text class="title" x="400" y="50">Git Flow Workflow</text>
+  <text class="subtitle" x="400" y="80">Uma estratégia de branching para desenvolvimento colaborativo</text>
+  
+  <!-- Main Branch -->
+  <path class="path main-path" d="M100,200 L700,200" />
+  
+  <!-- Develop Branch -->
+  <path class="path develop-path" d="M150,200 C170,200 170,150 190,150 L650,150 C670,150 670,200 690,200" />
+  
+  <!-- Feature Branch -->
+  <path class="path feature-path" d="M250,150 C270,150 270,100 290,100 L400,100 C420,100 420,150 440,150" />
+  
+  <!-- Release Branch -->
+  <path class="path release-path" d="M500,150 C520,150 520,100 540,100 L580,100 C600,100 600,150 620,150 C640,150 640,200 660,200" />
+  
+  <!-- Hotfix Branch -->
+  <path class="path hotfix-path" d="M400,200 C420,200 420,250 440,250 L500,250 C520,250 520,200 540,200" />
+  
+  <!-- Commit Circles -->
+  <circle class="commit commit-main" cx="100" cy="200" r="8" />
+  <circle class="commit commit-main" cx="200" cy="200" r="8" />
+  <circle class="commit commit-main" cx="400" cy="200" r="8" />
+  <circle class="commit commit-main" cx="540" cy="200" r="8" />
+  <circle class="commit commit-main" cx="660" cy="200" r="8" />
+  <circle class="commit commit-main" cx="700" cy="200" r="8" />
+  
+  <circle class="commit commit-develop" cx="190" cy="150" r="8" />
+  <circle class="commit commit-develop" cx="250" cy="150" r="8" />
+  <circle class="commit commit-develop" cx="440" cy="150" r="8" />
+  <circle class="commit commit-develop" cx="500" cy="150" r="8" />
+  <circle class="commit commit-develop" cx="620" cy="150" r="8" />
+  <circle class="commit commit-develop" cx="650" cy="150" r="8" />
+  
+  <circle class="commit commit-feature" cx="290" cy="100" r="8" />
+  <circle class="commit commit-feature" cx="350" cy="100" r="8" />
+  <circle class="commit commit-feature" cx="400" cy="100" r="8" />
+  
+  <circle class="commit commit-release" cx="540" cy="100" r="8" />
+  <circle class="commit commit-release" cx="580" cy="100" r="8" />
+  
+  <circle class="commit commit-hotfix" cx="440" cy="250" r="8" />
+  <circle class="commit commit-hotfix" cx="500" cy="250" r="8" />
+  
+  <!-- Merge Diamonds -->
+  <polygon class="merge merge-develop" points="690,200 680,190 670,200 680,210" />
+  <polygon class="merge merge-develop" points="150,200 140,190 130,200 140,210" />
+  <polygon class="merge merge-develop" points="440,150 430,140 420,150 430,160" />
+  <polygon class="merge merge-develop" points="620,150 610,140 600,150 610,160" />
+  <polygon class="merge merge-main" points="660,200 650,190 640,200 650,210" />
+  <polygon class="merge merge-main" points="540,200 530,190 520,200 530,210" />
+  
+  <!-- Branch Labels -->
+  <text class="label label-main" x="100" y="230">main</text>
+  <text class="label label-develop" x="190" y="130">develop</text>
+  <text class="label label-feature" x="290" y="80">feature/login</text>
+  <text class="label label-release" x="540" y="80">release/v1.0</text>
+  <text class="label label-hotfix" x="440" y="280">hotfix/security</text>
+  
+  <!-- Version Tags -->
+  <rect x="195" y="185" width="50" height="20" rx="10" ry="10" fill="#3B82F6" opacity="0.2" />
+  <text class="label label-main" x="220" y="200">v0.1</text>
+  
+  <rect x="655" y="185" width="50" height="20" rx="10" ry="10" fill="#3B82F6" opacity="0.2" />
+  <text class="label label-main" x="680" y="200">v1.0</text>
+  
+  <rect x="535" y="185" width="50" height="20" rx="10" ry="10" fill="#3B82F6" opacity="0.2" />
+  <text class="label label-main" x="560" y="200">v0.2</text>
+</svg>
