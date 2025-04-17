@@ -1,27 +1,15 @@
-# Olá, eu sou Fernando 👋
+# Fernando Pestillo
 
-## Sobre Mim
+<p> Desenvolvedor Front-end com 2 anos de experiência, especializado em Angular e TypeScript. 
+  </br>
+  Atualmente expandindo meus horizontes rumo ao Full Stack, com foco em Java e Python. Sou Apaixonado por tecnologia, aprendizado contínuo e boas práticas de desenvolvimento.
+</p>
 
-🚀 Desenvolvedor apaixonado por código limpo e boas práticas </br>
-🌱 Sempre aprendendo novas tecnologias </br>
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FernandoPestillo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoPestillo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-## 🛠️ Tecnologias & Ferramentas
-
-<div style="display: inline_block"><br>
-    <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/angular/angular-original.svg">
-  <img align="center" alt="Next" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nextjs/nextjs-original.svg">
-</div>
+![FernandoPestillo's Stats](https://github-readme-stats.vercel.app/api?username=FernandoPestillo&theme=yeblu&show_icons=true&hide_border=false&count_private=true)
+![FernandoPestillo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoPestillo&theme=yeblu&show_icons=true&hide_border=false&layout=compact)
 
 ## 📫 Contato
 
