@@ -28,5 +28,23 @@
 
 ## GitHub Statistics
 
-![FernandoPestillo's Stats](https://github-readme-stats.vercel.app/api?username=FernandoPestillo&theme=yeblu&show_icons=true&hide_border=false&count_private=true)
-![FernandoPestillo's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoPestillo&theme=yeblu&show_icons=true&hide_border=false&layout=compact)
+<br/>
+
+<p align="center">
+  <a href="https://github.com/FernandoPestillo">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FernandoPestillo&theme=radical" alt="Fernando's GitHub Contribution"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/FernandoPestillo" >
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoPestillo&theme=radical&border=7F3FBF&background=0D1117" alt="Fernando's GitHub streak" />
+  </a>
+</p>
+
+
+
+<a align="center" href="https://github.com/FernandoPestillo"><img alt="Fernando's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=FernandoPestillo&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="100%"/></a>
+
+
+ 
