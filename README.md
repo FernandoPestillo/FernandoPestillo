@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0B1220,45:2563EB,100:F97316&section=header" alt="Header wave"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:2563EB,100:F97316&section=header&rotate=90" alt="Header wave"/>
 
 <div align="center">
   <h1>Fernando Pestillo</h1>
@@ -94,7 +94,17 @@ Também tenho vivência com back-end, banco de dados e desenvolvimento de jogos,
 <br/>
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FernandoPestillo/FernandoPestillo/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FernandoPestillo/FernandoPestillo/output/github-contribution-grid-snake.svg"/>
+    <img width="100%" src="https://raw.githubusercontent.com/FernandoPestillo/FernandoPestillo/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
   <sub>Design, código e colaboração para transformar ideias em experiências digitais.</sub>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:F97316,55:2563EB,100:0B1220&section=footer" alt="Footer wave"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:F97316,100:2563EB&section=footer&rotate=90" alt="Footer wave"/>
