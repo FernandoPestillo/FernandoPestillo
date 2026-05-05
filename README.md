@@ -104,4 +104,4 @@ Também tenho vivência com back-end, banco de dados e desenvolvimento de jogos,
   <sub>Design, código e colaboração para transformar ideias em experiências digitais.</sub>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:F97316,100:2563EB&section=footer&rotate=90" alt="Footer wave"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2563EB,100:F97316&section=footer&rotate=90" alt="Footer wave"/>
