@@ -1,107 +1,60 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:2563EB,100:F97316&section=header&rotate=90" alt="Header wave"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:2563EB,100:F97316&section=header" alt="" />
 
 <div align="center">
-  <h1>Fernando Pestillo</h1>
-  <p>
-    <strong>Front-end Developer</strong> criando interfaces limpas, responsivas e bem estruturadas.
-  </p>
+  <h1>Olá, eu sou Fernando Pestillo 👋</h1>
+  <p><strong>Front-end Developer</strong></p>
+  <p>Transformo ideias em interfaces claras, responsivas e bem acabadas.</p>
 
-  <p>
-    <a href="https://fernandopestillo.com.br" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-    </a>
-    <a href="https://www.linkedin.com/in/fernando-pestillo-95b5b5264/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:fernandopestillo@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
-  </p>
-</div>
-
-<br/>
-
-## Sobre mim
-
-Desenvolvedor com foco em experiências digitais bem acabadas, combinando estrutura, estética e usabilidade. Trabalho principalmente com tecnologias front-end modernas, mantendo atenção aos detalhes visuais, organização de código e colaboração em fluxos reais de desenvolvimento.
-
-Também tenho vivência com back-end, banco de dados e desenvolvimento de jogos, o que me ajuda a entender produtos de ponta a ponta e colaborar melhor entre diferentes áreas técnicas.
-
-## Stack visual
-
-<div>
-
-<h3>Front-end</h3>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,tailwind&theme=dark" alt="Front-end Skills"/>
-</a>
-
-<h3>Back-end</h3>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" alt="Back-end"/>
-</a>
-
-<h3>Databases</h3>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Databases"/>
-</a>
-
-<h3>Version Control</h3>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,jira&theme=dark" alt="Tools"/>
-</a>
-
-<h3>Games</h3>
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=cs,unity&theme=dark" alt="Game Dev"/>
-</a>
-
-</div>
-
-## Experiência em foco
-
-| Área              | Experiência                                                                                                                 |
-| ----------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| Interfaces        | Construção de layouts responsivos, componentes reutilizáveis e páginas com foco em estética, clareza e consistência visual. |
-| Front-end moderno | Desenvolvimento com JavaScript, TypeScript, Angular, Bootstrap e Tailwind CSS.                                              |
-| Colaboração       | Uso de Git, GitHub, Bitbucket e Jira para versionamento, organização de tarefas e fluxo de entrega.                         |
-| Sistemas          | Conhecimento em Java e MySQL para apoio em APIs, regras de negócio e persistência de dados.                                 |
-| Jogos             | Experiência com C# e Unity, conectando lógica, interação e experiência visual.                                              |
-
-## GitHub
-
-<div align="center">
-  <a href="https://github.com/FernandoPestillo">
-    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoPestillo&theme=dark&background=0B1220&border=2563EB&stroke=2563EB&ring=F97316&fire=F97316&currStreakNum=F97316&sideNums=60A5FA&currStreakLabel=60A5FA&sideLabels=60A5FA&dates=E5E7EB" alt="GitHub streak"/>
+  <a href="https://fernandopestillo.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Acesse meu portfólio" />
   </a>
-  <a href="https://github.com/FernandoPestillo">
-    <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=FernandoPestillo&langs_count=8&layout=compact&theme=dark&border_color=2563EB&bg_color=0B1220&title_color=F97316&text_color=E5E7EB&icon_color=38BDF8" alt="Top languages"/>
+  <a href="https://www.linkedin.com/in/fernando-pestillo-95b5b5264/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conecte-se comigo no LinkedIn" />
+  </a>
+  <a href="mailto:fernandopestillo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/E--mail-F97316?style=for-the-badge&logo=gmail&logoColor=white" alt="Envie um e-mail" />
   </a>
 </div>
 
-<br/>
+<br />
+
+## Um pouco sobre mim
+
+Gosto de unir **estética, estrutura e usabilidade** para criar experiências digitais que funcionem bem em diferentes telas. No dia a dia, meu foco está em componentes reutilizáveis, consistência visual e código organizado.
+
+Minha vivência com back-end, bancos de dados e desenvolvimento de jogos amplia meu olhar sobre o produto e a colaboração entre diferentes áreas.
+
+## Tecnologias e ferramentas
+
+**Front-end** · Interfaces, componentes e experiências responsivas
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,tailwind&theme=dark" alt="HTML, CSS, JavaScript, TypeScript, Angular, Bootstrap e Tailwind CSS" />
+
+**Back-end e dados** · Lógica, regras de negócio e persistência
+
+<img src="https://skillicons.dev/icons?i=java,mysql&theme=dark" alt="Java e MySQL" />
+
+**Desenvolvimento de jogos** · Lógica, interação e experiência visual
+
+<img src="https://skillicons.dev/icons?i=cs,unity&theme=dark" alt="C# e Unity" />
+
+**Ferramentas e colaboração** · Versionamento e organização de projetos
+
+<img src="https://skillicons.dev/icons?i=git,github,bitbucket,jira&theme=dark" alt="Git, GitHub, Bitbucket e Jira" />
+
+## Minha atividade no GitHub
 
 <div align="center">
   <a href="https://github.com/FernandoPestillo">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=FernandoPestillo&bg_color=0B1220&color=60A5FA&line=F97316&point=38BDF8&area=true&area_color=2563EB&hide_border=true" alt="GitHub contribution graph"/>
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=FernandoPestillo&theme=dark&background=0B1220&border=2563EB&stroke=2563EB&ring=F97316&fire=F97316&currStreakNum=F97316&sideNums=60A5FA&currStreakLabel=60A5FA&sideLabels=60A5FA&dates=E5E7EB" alt="Sequência de contribuições no GitHub" />
   </a>
 </div>
 
-<br/>
+<br />
 
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/FernandoPestillo/FernandoPestillo/output/snake.svg" alt="Snake animation"/>
-</div>
+<img width="100%" src="https://raw.githubusercontent.com/FernandoPestillo/FernandoPestillo/output/snake.svg" alt="Animação de uma cobra passando pelas contribuições do GitHub" />
 
-<br/>
+<br />
+<br />
 
-<div align="center">
-  <sub>Design, código e colaboração para transformar ideias em experiências digitais.</sub>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2563EB,100:F97316&section=footer&rotate=90" alt="Footer wave"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2563EB,100:F97316&section=footer" alt="" />
